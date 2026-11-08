@@ -27,4 +27,4 @@ something I use every day — that is usually why it got written.
 
 ---
 
-<sub>Projects live under <a href="https://github.com/FenixMotionSystems">Fenix Motion Systems</a> (<a href="https://fenixmotionsystems.com">fenixmotionsystems.com</a>) — a portfolio umbrella for my work, not a company. Built in Spain.</sub>
+<sub>Projects live under <a href="https://github.com/FenixMotionSystems">Fenix Motion Systems</a> (<a href="https://fenixmotionsystems.com">fenixmotionsystems.com</a>). Built in Spain.</sub>
